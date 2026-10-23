@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**loooongmango/loooongmango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🥭 SABRINA
 
-Here are some ideas to get you started:
+**loooongmango**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=30&amp;duration=2800&amp;pause=1100&amp;color=A78BFA&amp;background=0D1117&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=160&amp;lines=Hello%2C+I%27m+Sabrina.;You+can+call+me+loooongmango.;Stay+curious.+Keep+exploring.;Loading+my+next+adventure..." alt="Animated introduction: Hello, I'm Sabrina. You can call me loooongmango. Stay curious. Keep exploring. Loading my next adventure..." width="760" />
+
+### 保持好奇，慢慢解锁新世界。
+
+<sub>STAY CURIOUS · KEEP EXPLORING</sub>
+
+<br><br>
+
+`◉ online` &nbsp; `✦ curious` &nbsp; `∞ possibilities`
+
+<br>
+
+🥭
+
+</div>
