@@ -1,19 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440">
 <defs>
-<linearGradient id="line"><stop stop-color="#67e8f9"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
-<radialGradient id="glow"><stop stop-color="#4338ca" stop-opacity=".35"/><stop offset="1" stop-color="#080d1b" stop-opacity="0"/></radialGradient>
-<pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#23334c" stroke-width=".6"/></pattern>
+<linearGradient id="ink" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a5f3fc"/><stop offset=".5" stop-color="#818cf8"/><stop offset="1" stop-color="#e9d5ff"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#3730a3" stop-opacity=".45"/><stop offset="1" stop-color="#080d1b" stop-opacity="0"/></radialGradient>
 </defs>
-<rect width="1200" height="340" rx="16" fill="#080d1b"/>
-<rect width="1200" height="340" rx="16" fill="url(#grid)" opacity=".6"/>
-<ellipse cx="980" cy="170" rx="380" ry="260" fill="url(#glow)"/>
-<g fill="none" stroke="url(#line)" stroke-linecap="round">
-<path d="M982 165C930 91 849 91 849 165S930 239 982 165S1115 91 1115 165S1034 239 982 165" stroke-width="18" opacity=".12"/>
-<path d="M982 165C930 91 849 91 849 165S930 239 982 165S1115 91 1115 165S1034 239 982 165" stroke-width="5"/>
-</g>
-<path d="M48 55V32H105M1095 308H1152V285" fill="none" stroke="#67e8f9" stroke-width="2"/>
-<text x="72" y="113" font-family="monospace" font-size="13" letter-spacing="5" fill="#67e8f9">BEYOND THE FAMILIAR</text>
-<text x="68" y="193" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="57" fill="#edf4ff">Hello, I'm Sabrina.</text>
-<path d="M72 227H720" stroke="url(#line)" opacity=".55"/>
-<text x="72" y="266" font-family="monospace" font-size="13" letter-spacing="3" fill="#8796b4">CURIOSITY / EXPLORATION / POSSIBILITY</text>
+<rect width="1200" height="440" rx="20" fill="#080d1b"/>
+<ellipse cx="960" cy="210" rx="330" ry="300" fill="url(#halo)"/>
+<path d="M60 62H1140M60 365H1140" stroke="#91a0bd" stroke-opacity=".25"/>
+<circle cx="64" cy="38" r="3" fill="#a5f3fc"/>
+<text x="80" y="43" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="4" fill="#a0adc5">OPEN TO POSSIBILITY</text>
+<text x="62" y="158" font-family="Arial,Helvetica,sans-serif" font-size="36" fill="#a0adc5">Hello, I'm</text>
+<text x="54" y="282" font-family="Arial,Helvetica,sans-serif" font-size="132" font-weight="700" letter-spacing="-7" fill="#f1f5ff">Sabrina.</text>
+<path d="M924 215C870 123 776 123 776 215S870 307 924 215S1072 123 1072 215S978 307 924 215" fill="none" stroke="url(#ink)" stroke-width="26" stroke-linecap="round"/>
+<path d="M924 215C870 123 776 123 776 215S870 307 924 215S1072 123 1072 215S978 307 924 215" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="1.5"/>
+<text x="62" y="403" font-family="monospace" font-size="12" letter-spacing="3" fill="#a0adc5">STAY CURIOUS</text>
+<text x="1140" y="403" text-anchor="end" font-family="monospace" font-size="12" letter-spacing="3" fill="#a0adc5">KEEP EXPLORING ↗</text>
 </svg>
