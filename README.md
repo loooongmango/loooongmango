@@ -1,21 +1,26 @@
-<div align="center">
+<br>
+
+<samp>PERSONAL SPACE &nbsp; / &nbsp; SABRINA</samp>
+
+# Hello, I'm Sabrina.
+
+保持好奇，慢慢解锁新世界。
 
 <br>
 
-<sub>S A B R I N A &nbsp; / &nbsp; A SPACE TO EXPLORE</sub>
-
-<h1>Hello, I'm Sabrina.</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=400&amp;size=21&amp;duration=3600&amp;pause=1800&amp;color=9B8BC4&amp;center=true&amp;vCenter=true&amp;width=640&amp;height=70&amp;lines=Stay+curious.+Keep+exploring.;Loading+my+next+adventure..." alt="Stay curious. Keep exploring. / Loading my next adventure..." width="640" />
-
-<sub>保持好奇，慢慢解锁新世界。</sub>
+<table>
+<tr><td>
+<samp>&nbsp; ● &nbsp; ● &nbsp; ● &nbsp;&nbsp; sabrina / next-adventure</samp>
+<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=23&amp;duration=3200&amp;pause=1700&amp;color=5EEAD4&amp;background=0D1117&amp;center=true&amp;vCenter=true&amp;width=780&amp;height=130&amp;lines=Stay+curious.+Keep+exploring.;Loading+my+next+adventure..." alt="Stay curious. Keep exploring. / Loading my next adventure..." width="780" />
+<br>
+<samp>&nbsp; IDEAS IN MOTION &nbsp; / &nbsp; ONE STEP AT A TIME</samp>
+<br><br>
+</td></tr>
+</table>
 
 <br>
-<br>
 
-<a href="https://www.linkedin.com/in/nanxi-li/">LinkedIn ↗</a>
+<samp>ELSEWHERE</samp> &nbsp;—&nbsp; <a href="https://www.linkedin.com/in/nanxi-li/"><strong>LinkedIn ↗</strong></a>
 
 <br>
-<br>
-
-</div>
