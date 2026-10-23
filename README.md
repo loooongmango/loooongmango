@@ -1,20 +1,21 @@
 <div align="center">
 
-# Hello, I'm Sabrina.
-
-<a href="https://www.linkedin.com/in/nanxi-li/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=30&amp;duration=2800&amp;pause=1100&amp;color=A78BFA&amp;background=0D1117&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=160&amp;lines=Stay+curious.+Keep+exploring.;Loading+my+next+adventure..." alt="Animated text: Stay curious. Keep exploring. Loading my next adventure..." width="760" />
-
-### 保持好奇，慢慢解锁新世界。
-
-<sub>STAY CURIOUS · KEEP EXPLORING</sub>
-
-<br><br>
-
-`◉ online` &nbsp; `✦ curious` &nbsp; `∞ possibilities`
-
 <br>
 
+<sub>S A B R I N A &nbsp; / &nbsp; A SPACE TO EXPLORE</sub>
+
+<h1>Hello, I'm Sabrina.</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=400&amp;size=21&amp;duration=3600&amp;pause=1800&amp;color=9B8BC4&amp;center=true&amp;vCenter=true&amp;width=640&amp;height=70&amp;lines=Stay+curious.+Keep+exploring.;Loading+my+next+adventure..." alt="Stay curious. Keep exploring. / Loading my next adventure..." width="640" />
+
+<sub>保持好奇，慢慢解锁新世界。</sub>
+
+<br>
+<br>
+
+<a href="https://www.linkedin.com/in/nanxi-li/">LinkedIn ↗</a>
+
+<br>
+<br>
 
 </div>
