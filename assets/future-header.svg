@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+<defs>
+<linearGradient id="line"><stop stop-color="#67e8f9"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#4338ca" stop-opacity=".35"/><stop offset="1" stop-color="#080d1b" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#23334c" stroke-width=".6"/></pattern>
+</defs>
+<rect width="1200" height="340" rx="16" fill="#080d1b"/>
+<rect width="1200" height="340" rx="16" fill="url(#grid)" opacity=".6"/>
+<ellipse cx="980" cy="170" rx="380" ry="260" fill="url(#glow)"/>
+<g fill="none" stroke="url(#line)" transform="translate(982 165)">
+<ellipse rx="143" ry="85" transform="rotate(-35)" opacity=".65"/>
+<ellipse rx="143" ry="85" transform="rotate(35)" opacity=".4"/>
+<circle r="99" opacity=".25"/><circle r="56" opacity=".5"/>
+<path d="M-170 0H170M0-135V135" stroke-dasharray="3 10" opacity=".3"/>
+</g>
+<circle cx="1098" cy="81" r="5" fill="#67e8f9"/>
+<path d="M48 55V32H105M1095 308H1152V285" fill="none" stroke="#67e8f9" stroke-width="2"/>
+<text x="72" y="113" font-family="monospace" font-size="13" letter-spacing="5" fill="#67e8f9">BEYOND THE FAMILIAR</text>
+<text x="68" y="193" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="57" fill="#edf4ff">Hello, I'm Sabrina.</text>
+<path d="M72 227H720" stroke="url(#line)" opacity=".55"/>
+<text x="72" y="266" font-family="monospace" font-size="13" letter-spacing="3" fill="#8796b4">CURIOSITY / EXPLORATION / POSSIBILITY</text>
+</svg>
